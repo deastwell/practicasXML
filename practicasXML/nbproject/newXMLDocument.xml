@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<pedido>
+    <numero>124354643</numero>
+    
+    <cliente>Pepe Pepez</cliente>
+    
+    <entrega>
+        <direccion>
+            <calle>Calle Larios</calle>
+            <numero>23</numero>
+            <codigoPostal>29000</codigoPostal>
+        </direccion>
+        
+        <fecha>1-1-2024</fecha>
+    </entrega>
+    
+    <contenidos>
+        <producto cantidad="1">PS5</producto>
+        <producto></producto>
+    </contenidos>
+    
+</pedido>
+ 
