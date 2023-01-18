@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<horario>
+  
+    <ciclo>DAM</ciclo>
+    <curso>Primero</curso>
+    <aula>Taller de administracion</aula>
+    
+    <semana>  
+        <dia id="lunes">
+       
+            <clase hora="0800">SIstemss</clase>
+            <clase hora="0900">BD</clase>
+            <clase hora="1000">Programacion</clase>
+            <clase hora="1130">FOL</clase>
+            <clase hora="1230">Marcas</clase>
+            <clase hora="1330">Entornos</clase>
+
+        </dia>
+   
+
+    <dia id="martes">
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+    </dia>
+    
+     <dia id="lunes">
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+    </dia>
+    
+    
+     <dia id="miercoles">
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+    </dia>
+    
+    
+     <dia id="jueves">
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+    </dia>
+    
+    
+     <dia id="viernes">
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+        <clase></clase>
+    </dia>
+    
+  </semana> 
+    
+    
+    
+    
+  <modulos>
+      <modulo nombre="Marcas">
+          <horas>
+              <hora dia="lunes">0900</hora>
+              <hora dia="martes">1000</hora>
+              <hora dia="miercoles">1130</hora>
+          </horas>
+      </modulo>
+      
+      
+      
+  </modulos>    
+    
+</horario>
+
