@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<taquilla>
+    <pais></pais>
+    <fecha></fecha>
+    <peliculas>
+        <pelicula>
+            <posicion></posicion>
+            <titulo></titulo>
+            <genero></genero>
+            <numsemanas></numsemanas>
+            <recaudacion>
+                <finde></finde>
+                <total></total>
+            </recaudacion>
+        </pelicula>
+    </peliculas>
+    
+    
+</taquilla>
+
