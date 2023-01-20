@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<TFG>
+    <datos>
+        <ciclo></ciclo>
+        <curso></curso>
+        <nombre></nombre>
+        <apellidos></apellidos>
+    </datos>
+    
+    <ProyectoIntegrado>
+        <titulo></titulo>
+        <introduccion></introduccion>
+        <finalidad></finalidad>ç
+        <objetivos>
+            <objetivo></objetivo>
+            <objetivo></objetivo>
+            <objetivo></objetivo>
+        </objetivos>
+        <MediosUtilizados>
+            <metodo></metodo>
+            <metodo></metodo>
+        </MediosUtilizados>
+        <planificacion></planificacion>
+        <bibliografia></bibliografia>
+    </ProyectoIntegrado>
+</TFG>
+
